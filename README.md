@@ -3,10 +3,10 @@ this projects immplements a recomendation system with machine learning for an on
 for this project item classification would be under one of the following.
 <ul>
 <li>mobile phone</li>
-laptops
-accessories
-male shoes
-female shoes
-male cloths
-female cloths
+  <li>laptops</li>
+  <li>accessories</li>
+  <li>male shoes</li>
+<li>female shoes</li>
+  <li>male cloths</li>
+  <li>female cloths</li>
 </ui>
